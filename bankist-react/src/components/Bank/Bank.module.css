@@ -1,0 +1,18 @@
+.bank {
+  display: grid;
+  grid-template-areas: "balance balance" "movements actions";
+  grid-template-columns: 4fr 3fr;
+  gap: 2rem;
+}
+
+.bank__balance {
+  grid-area: balance;
+}
+
+.bank__movements {
+  grid-area: movements;
+}
+
+.bank__actions {
+  grid-area: actions;
+}

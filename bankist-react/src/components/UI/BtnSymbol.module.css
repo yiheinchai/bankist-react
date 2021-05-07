@@ -1,0 +1,12 @@
+.btn-symbol {
+  font-size: 2.5rem;
+  border: none;
+  background-color: #1fe0;
+}
+
+.white-curved {
+  background-color: white;
+  border-radius: 0.7rem;
+  height: 3rem;
+  margin-left: 1.5rem;
+}

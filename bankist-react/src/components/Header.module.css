@@ -1,0 +1,16 @@
+.header {
+  margin-top: 3rem;
+  display: flex;
+  flex-flow: row;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.header__greet {
+  margin-left: 2rem;
+  font-size: 2rem;
+}
+
+.header__logo {
+  height: 5rem;
+}

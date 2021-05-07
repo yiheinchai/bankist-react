@@ -1,0 +1,29 @@
+.action__card {
+  padding: 3rem;
+  border-radius: 1rem;
+  display: flex;
+  flex-flow: column;
+  align-items: stretch;
+  margin-bottom: 1.5rem;
+}
+
+.action__title {
+  font-size: 1.5rem;
+  font-weight: 500;
+  margin-bottom: 1rem;
+}
+
+.action__form {
+  display: flex;
+  flex-flow: row-wrap;
+}
+
+.orange {
+  background-image: linear-gradient(to top left, #ffb003, #ffcb03);
+}
+.green {
+  background-image: linear-gradient(to top left, rgb(103, 158, 40), rgb(175, 255, 134));
+}
+.red {
+  background-image: linear-gradient(to top left, #e52a5a, #ff585f);
+}

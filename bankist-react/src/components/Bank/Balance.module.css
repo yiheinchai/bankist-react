@@ -1,0 +1,25 @@
+.balance {
+  display: flex;
+  flex-flow: row;
+  justify-content: space-between;
+}
+
+.balance__info {
+  display: flex;
+  flex-flow: column;
+  justify-content: center;
+}
+
+.balance__value {
+  font-size: 5rem;
+}
+
+.balance__title {
+  font-size: 2rem;
+}
+
+.balance__date {
+  font-size: 1.2rem;
+  font-weight: 500;
+  color: rgb(168, 168, 168);
+}
